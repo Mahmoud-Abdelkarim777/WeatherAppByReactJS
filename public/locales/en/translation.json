@@ -1,0 +1,15 @@
+{
+  "abnub": "Abnub",
+  "max": "Max",
+  "min": "Min",
+
+  "clear sky": "Clear sky",
+  "few clouds": "Few clouds",
+  "scattered clouds": "Scattered clouds",
+  "broken clouds": "Broken clouds",
+  "shower rain": "Shower rain",
+  "rain": "Rain",
+  "thunderstorm": "Thunderstorm",
+  "snow": "Snow",
+  "mist": "Mist"
+}
