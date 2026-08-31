@@ -116,8 +116,8 @@ Used:
 
 The application supports:
 
-* 🇪🇬 Arabic
-* 🇬🇧 English
+* Arabic
+* English
 
 ### Translation Structure
 
